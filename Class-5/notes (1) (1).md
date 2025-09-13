@@ -36,7 +36,7 @@ An **Operating System (OS)** is essential software that manages hardware and sof
 - **User Interface**: Graphical User Interface (GUI) or CLI for user interaction.
 - **Package Manager**: Manages the installation, removal, and updating of software packages.
 
----
+--
 
 ### 3. **Windows vs. Linux Using GUI**
 
